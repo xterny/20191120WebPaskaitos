@@ -1,0 +1,14 @@
+header{
+    background-color: aliceblue;
+}
+aside{
+    background-color: aquamarine;
+    width: 250px;
+    height: 250px;
+}
+main{
+    background-color: blanchedalmond;
+}
+footer{
+    background-color: rgba(155, 201, 110, 0.2);
+}

@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="11c7b065-f6ca-46d4-870c-df75a928f911" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/css/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/layout.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -75,7 +73,7 @@
       <option name="presentableId" value="Default" />
       <updated>1574359296301</updated>
       <workItem from="1574359297383" duration="4820000" />
-      <workItem from="1574443723915" duration="2251000" />
+      <workItem from="1574443723915" duration="2707000" />
     </task>
     <task id="LOCAL-00001" summary="updated index.html">
       <created>1574359526158</created>
@@ -119,7 +117,14 @@
       <option name="project" value="LOCAL" />
       <updated>1574364040456</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="added css">
+      <created>1574451052836</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1574451052836</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -142,6 +147,7 @@
     <MESSAGE value="updated index.html" />
     <MESSAGE value=".idea" />
     <MESSAGE value="Added 3 links &amp; 3 images" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added 3 links &amp; 3 images" />
+    <MESSAGE value="added css" />
+    <option name="LAST_COMMIT_MESSAGE" value="added css" />
   </component>
 </project>
